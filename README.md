@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=carolynk&theme=synthwave" />
+[![Carolyn's github stats](https://github-readme-stats.vercel.app/api?username=carolynk)](https://github.com/anuraghazra/github-readme-stats)
