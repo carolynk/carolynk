@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Carolyn's github stats](https://github-readme-stats.vercel.app/api?theme=synthwave?username=carolynk)
+![Carolyn's github stats](https://github-readme-stats.vercel.app/api?username=carolynk&show_icons=true&theme=radical)
 
 
