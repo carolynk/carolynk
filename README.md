@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Carolyn's github stats](https://github-readme-stats.vercel.app/api?username=carolynk&show_icons=true&theme=radical)
-[Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=carolynk)
 
 
